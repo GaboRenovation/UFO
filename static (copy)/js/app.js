@@ -4,7 +4,8 @@ const tableData = data;
 // Reference the HTML table using d3
 var tbody = d3.select("tbody");
 
-
+// Querying the sights (se agrega esta linea)
+var numberSight = tableData.length;
 
 // 11-5-3
 function handleClick() {
