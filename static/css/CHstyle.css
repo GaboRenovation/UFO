@@ -1,0 +1,44 @@
+
+/* CHALLENGE */
+
+body {
+    color: #bacbf0;
+}
+
+.jumbotron {
+    background-image: url("../images/nasa2.jpg");
+    background-size: 100% 250%;
+    text-align: left;
+  }
+
+.wrapper ul{
+    list-style-type: none;
+    display:inline-table;
+    justify-content: center;
+ 
+}
+
+.wrapper li {
+    float: right;
+    padding: 5px 5px 5px 5px;
+    border: 0px solid rgb(187, 218, 243);
+    text-align:center;
+    font-family: inherit; 
+    font-size: 1rem;
+    list-style-position:inside;
+}
+
+.wrapper label{
+    text-size-adjust: auto;
+    
+}
+
+.hide{
+    display:none;  
+  }
+
+.options{
+    
+}
+
+/* CHALLENGE */
