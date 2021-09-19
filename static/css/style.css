@@ -1,7 +1,7 @@
 /* 11-6-3 */
 
  body {
-    color: hsl(224, 28%, 62%);
+    color: hsl(224, 32%, 72%);
   } 
 
 /* <body class="bg-dark">
@@ -12,9 +12,9 @@
      */
 
      .jumbotron {
-      background-image: url("../images/nasa.jpg");
-      background-size: 100% 100%;
-      text-align: center;
+      background-image: url("../images/nasa2.jpg");
+      background-size: 100% 250%;
+      text-align: left;
      } 
 
    <form>
