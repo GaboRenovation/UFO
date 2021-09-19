@@ -8,7 +8,7 @@ var tbody = d3.select("tbody");
 var numberSight = tableData.length;
 
 // 11-5-1
-function buildTable(data) {
+
   function buildTable(data) {
     // First, clear out any existing data
     tbody.html("");
@@ -30,7 +30,7 @@ function buildTable(data) {
     });
   }
 
-  
+
 // 11-5-3
 function handleClick() {
   // Grab the datetime value from the filter
